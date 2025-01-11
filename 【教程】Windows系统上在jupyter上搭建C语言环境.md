@@ -12,7 +12,8 @@ gcc版本（C编译器）：
 注意：本指引并不介绍jupyter的安装说明，也不清楚如何在linux上构建这个环境。
 #### **安装MinGW**
 下载[cygwin版的MinGW](https://cygwin.com/install.html)
-在确认好安装路径之后进行安装，安装完之后进入到MinGW\bin路径下，找到![[{C3A3138F-CCFB-4E47-A4BA-132AE5A3E348}.png]]
+在确认好安装路径之后进行安装，安装完之后进入到MinGW\bin路径下，找到
+![[{C3A3138F-CCFB-4E47-A4BA-132AE5A3E348}.png]]
 这个exe可执行文件。
 #### **安装GCC和MSYS**
 在==当前目录==下右箭打开终端/命令提示符，执行
